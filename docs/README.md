@@ -10,7 +10,7 @@
 
 ## Tagging scheme
 
-The tagging scheme is organized into hierarchical structures:
+The tagging scheme is organized into a hierarchical structures:
 
 - Part of Speech
     - Associated Finegrain Tags
