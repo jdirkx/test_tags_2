@@ -1,6 +1,6 @@
-# 2-1. jj cat1
+# 2-1\. jj cat1
 
-## 2-1-1. attrb (attributive)
+## 2-1-1\. attrb (attributive)
 
 1. Descriptions
     - xyz
@@ -11,7 +11,7 @@
 4. Discussions
     - xyz
 
-## 2-1-2. pred (predicate)
+## 2-1-2\. pred (predicate)
 
 1. Descriptions
     - xyz

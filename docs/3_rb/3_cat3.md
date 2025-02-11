@@ -1,6 +1,6 @@
-# 3-3. rb cat3
+# 3-3\. rb cat3
 
-## 3-3-1. splaux (special auxiliary)
+## 3-3-1\. splaux (special auxiliary)
 
 1. Descriptions
     - xyz

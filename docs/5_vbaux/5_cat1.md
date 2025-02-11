@@ -1,6 +1,6 @@
-# 5-1. vbaux cat1
+# 5-1\. vbaux cat1
 
-## 5-1-1. mod (xyz)
+## 5-1-1\. mod (xyz)
 
 1. Descriptions
     - xyz

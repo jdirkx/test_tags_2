@@ -1,6 +1,6 @@
-# 1-1. nn cat1
+# 1-1\. nn cat1
 
-## 1-1-1. pl (plural)
+## 1-1-1\. pl (plural)
 
 1. Descriptions
     - xyz

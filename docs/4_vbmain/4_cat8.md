@@ -1,6 +1,6 @@
-# 4-8. vbmain cat8
+# 4-8\. vbmain cat8
 
-## 4-8-1. reldel (xyz)
+## 4-8-1\. reldel (xyz)
 
 1. Descriptions
     - xyz
@@ -11,7 +11,7 @@
 4. Discussions
     - xyz
 
-## 4-8-2. compdel (xyz)
+## 4-8-2\. compdel (xyz)
 
 1. Descriptions
     - xyz
