@@ -1,33 +1,33 @@
-# 1-3. nn cat3
+# 1-2. nn cat2
 
-## 1-3-1. npremod (nominal premodifier)
+## 1-2-1. nom (nominative)
 
 1. Descriptions
     - xyz
 2. Tag
-    - npremod
+    - xyz
 3. Examples
     - xyz
 4. Discussions
     - xyz
 
-## 1-3-2. nappos (nomial appositive)
+## 1-2-2. proper (proper)
 
 1. Descriptions
     - xyz
 2. Tag
-    - nappos
+    - xyz
 3. Examples
     - xyz
 4. Discussions
     - xyz
 
-## 1-3-3. sgen (xyz)
+## 1-2-3. title (title)
 
 1. Descriptions
     - xyz
 2. Tag
-    - sgen
+    - xyz
 3. Examples
     - xyz
 4. Discussions
@@ -35,6 +35,6 @@
 
 ---
 
-**nn cat3**
+**nn cat2**
 
 xyz

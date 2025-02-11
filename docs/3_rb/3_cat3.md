@@ -1,6 +1,6 @@
-# 1-1. nn cat1
+# 3-3. rb cat3
 
-## 1-1-1. pl (plural)
+## 3-3-1. splaux (special auxiliary)
 
 1. Descriptions
     - xyz
@@ -11,8 +11,9 @@
 4. Discussions
     - xyz
 
+
 ---
 
-**nn cat1**
+**rb cat3**
 
 xyz

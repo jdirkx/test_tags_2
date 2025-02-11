@@ -1,23 +1,29 @@
 ---
-sort: 1
+sort: 3
 ---
 
-# 3. Dependent phrases
+# 3. Adverb Finegrain Tags
 
-## Syntactic functions and complexity features
+## Finegrain Tag Categories
 
-- **Structural type 3:** Dependent phrases
+- [cat1](3_cat1)
+    - [ajmod](3_cat1.html#3-1-1-ajmod--(adjective%20modifier))
+    - [advl](3_cat1.html#3-1-2-advl--(adverbial))
+    - [link](3_cat1.html#3-1-3-link--(linking))
+    - [prtcle](3_cat1.html#3-1-4-prtcle--(particle))
+    - [othr](3_cat1.html#3-1-5-othr--(other))
+- [cat2](3_cat2) 
+    - [ly](3_cat2.html#3-2-1-ly--(xyz))
+- [cat3](3_cat3)
+    - [splaux](3_cat3.html#3-3-1-splaux--(special%20auxiliary))
 
-    - Syntactic function 1: [clause constituent: adverbial](1_Syntactic%20function1.html#3-1-clause-constituent-adverbial)
-        - Complexity feature 1: [adverb phrase](1_Syntactic%20function1.html#3-1-1-adverb-phrase)
-        - Complexity feature 2: [prepositional phrase](1_Syntactic%20function1.html#3-1-2-prepositional-phrase)
-    - Syntactic function 2: [noun phrase constituent: modifier](2_Syntactic%20function2.html#3-2-noun-phrase-constituent-modifier)
-        - Complexity feature 1: [attributive adjectives as noun pre-modifier](2_Syntactic%20function2.html#3-2-1-attributive-adjectives-as-noun-pre-modifier)
-        - Complexity feature 2: [noun as noun pre-modifier](2_Syntactic%20function2.html#3-2-2-noun-as-noun-pre-modifier)
-        - Complexity feature 3: [*of* genetive phrases as noun](2_Syntactic%20function2.html#3-2-3-of-phrases-as-noun)
-        - Complexity feature 4: [other prepositional phrases as noun](2_Syntactic%20function2.html#3-2-4-other-prepositional-phrases-as-noun)
-        - Complexity feature 5: [appositive noun phrases as noun](2_Syntactic%20function2.html#3-2-5-appositive-noun-phrases-as-noun)
-    - Syntactic function 3: [other phrase constituent: adjective complement](3_Syntactic%20function3.html#3-3-other-phrase-constituent-adjective-complement)
-        - Complexity feature 1: [prepositional phrases as adjective complement](3_Syntactic%20function3.html#3-3-1-prepositional-phrases-as-adjective-complement)
-    - Syntactic function 4: [other phrase constituent: adjective/adverb modifier](4_Syntactic%20function4.html#3-4-other-phrase-constituent-adjectiveadverb-modifier)
-        - Complexity feature 1: [adverb phrase as adjective/adverb modifier](4_Syntactic%20function4.html#3-4-1-adverb-phrase-as-adjectiveadverb-modifier)
+
+---
+## Associated Complexity Tags
+
+- attr+npremod
+---
+
+**Adjective Finegrain Tags**
+
+xyz
