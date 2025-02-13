@@ -7,8 +7,8 @@ sort: 12
 ## Finegrain Tag Categories
 
 - [cat1](12_cat1)
-	- [relpro_that](12_cat1.md#12-1-1.-relpro_that-(xyz))
-	- [relpro_wh](12_cat1.md#12-1-2.-relpro_wh-(xyz))
+	- [relpro_that](12_cat1.html#12-1-1-relpro_that-xyz)
+	- [relpro_wh](12_cat1.html#12-1-2-relpro_wh-xyz)
 
 ---
 
