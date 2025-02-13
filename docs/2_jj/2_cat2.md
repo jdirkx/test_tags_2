@@ -1,6 +1,6 @@
 # 1-2\. jj cat2
 
-## 2-2-1\. ing (genative)
+## 2-2-1\. ing (gerundial)
 
 1. Descriptions
     - xyz
@@ -11,7 +11,7 @@
 4. Discussions
     - xyz
 
-## 2-2-2\. ed (past)
+## 2-2-2\. ed (participial)
 
 1. Descriptions
     - xyz

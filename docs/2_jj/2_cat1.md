@@ -11,7 +11,7 @@
 4. Discussions
     - xyz
 
-## 2-1-2\. pred (predicate)
+## 2-1-2\. pred (predicative)
 
 1. Descriptions
     - xyz

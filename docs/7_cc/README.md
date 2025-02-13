@@ -7,8 +7,8 @@ sort: 7
 ## Finegrain Tag Categories
 
 - [cat1](7_cat1)
-	- [cls](7_cat1.html#7-1-1-cls-xyz)
-	- [phrs](7_cat1.html#7-1-2-phrs-xyz)
+	- [cls](7_cat1.html#7-1-1-cls-clausal)
+	- [phrs](7_cat1.html#7-1-2-phrs-phrasal)
 
 ---
 

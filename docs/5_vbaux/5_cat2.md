@@ -1,6 +1,6 @@
 # 5-2\. vbaux cat2
 
-## 5-2-1\. pos (xyz)
+## 5-2-1\. pos (possibility)
 
 1. Descriptions
     - xyz
@@ -11,7 +11,7 @@
 4. Discussions
     - xyz
 
-## 5-2-2\. nec (xyz)
+## 5-2-2\. nec (necessity)
 
 1. Descriptions
     - xyz
@@ -22,7 +22,7 @@
 4. Discussions
     - xyz
 
-## 5-2-3\. prd (xyz)
+## 5-2-3\. prd (predictive)
 
 1. Descriptions
     - xyz

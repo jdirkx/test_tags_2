@@ -1,6 +1,6 @@
 # 6-1\. in cat1
 
-## 6-1-1\. advl (xyz)
+## 6-1-1\. advl (adverbial)
 
 1. Descriptions
     - xyz
@@ -11,7 +11,7 @@
 4. Discussions
     - xyz
 
-## 6-1-2\. nmod (xyz)
+## 6-1-2\. nmod (noun modifying)
 
 1. Descriptions
     - xyz
@@ -22,7 +22,7 @@
 4. Discussions
     - xyz
 
-## 6-1-3\. jcomp (xyz)
+## 6-1-3\. jcomp (adjective complement)
 
 1. Descriptions
     - xyz
@@ -33,7 +33,7 @@
 4. Discussions
     - xyz
 
-## 6-1-4\. in_othr (xyz)
+## 6-1-4\. in_othr (other)
 
 1. Descriptions
     - xyz

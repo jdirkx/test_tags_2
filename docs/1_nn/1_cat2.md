@@ -1,6 +1,6 @@
 # 1-2\. nn cat2
 
-## 1-2-1\. nom (nominative)
+## 1-2-1\. nom (nominalization)
 
 1. Descriptions
     - xyz

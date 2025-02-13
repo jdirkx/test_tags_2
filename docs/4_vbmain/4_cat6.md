@@ -1,6 +1,6 @@
 # 4-6\. vbmain cat6
 
-## 4-6-1\. thatcls (xyz)
+## 4-6-1\. thatcls (that clause)
 
 1. Descriptions
     - xyz
@@ -11,7 +11,7 @@
 4. Discussions
     - xyz
 
-## 4-6-2\. whcls (xyz)
+## 4-6-2\. whcls (wh clause)
 
 1. Descriptions
     - xyz
@@ -22,7 +22,7 @@
 4. Discussions
     - xyz
 
-## 4-6-3\. tocls (xyz)
+## 4-6-3\. tocls (to clause)
 
 1. Descriptions
     - xyz
@@ -33,7 +33,7 @@
 4. Discussions
     - xyz
 
-## 4-6-4\. ingcls (xyz)
+## 4-6-4\. ingcls (ing clause)
 
 1. Descriptions
     - xyz
@@ -44,7 +44,7 @@
 4. Discussions
     - xyz
 
-## 4-6-5\. edcls (xyz)
+## 4-6-5\. edcls (past participle clause)
 
 1. Descriptions
     - xyz

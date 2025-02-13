@@ -1,6 +1,6 @@
 # 3-2\. rb cat2
 
-## 3-2-1\. ly (xyz)
+## 3-2-1\. ly (manner)
 
 1. Descriptions
     - xyz

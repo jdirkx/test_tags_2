@@ -7,10 +7,10 @@ sort: 6
 ## Finegrain Tag Categories
 
 - [cat1](6_cat1)
-	- [advl](6_cat1.html#6-1-1-advl-xyz)
-	- [nmod](6_cat1.html#6-1-2-nmod-xyz)
-	- [jcomp](6_cat1.html#6-1-3.jcomp-xyz)
-	- [in_othr](6_cat1.html#6-1-4-in_othr-xyz)
+	- [advl](6_cat1.html#6-1-1-advl-adverbial)
+	- [nmod](6_cat1.html#6-1-2-nmod-noun-modifying)
+	- [jcomp](6_cat1.html#6-1-3.jcomp-adjective-complement)
+	- [in_othr](6_cat1.html#6-1-4-in_othr-other)
 
 ---
 ## Associated Complexity Tags
